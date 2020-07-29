@@ -1,4 +1,4 @@
-# Hi, I'm Piyush 🏾🖐 🏾🧑‍💻
+# Hi, I'm Piyush 🖐 🧑‍💻
 <img >
 <div>
 <p>I am frontend developer working basically with JavaScript , HTML and CSS. I have working experience with AngualrJS framework.
